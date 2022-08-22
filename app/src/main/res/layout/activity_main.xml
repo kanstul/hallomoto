@@ -25,7 +25,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="24dp"
+<<<<<<< HEAD
         tools:srcCompat="@drawable/rite"
+=======
+        app:srcCompat="@drawable/right"
+>>>>>>> 9e17e68 (Learned `img.setScaleX(-img.getScaleX())`, which is what we were going for in the first place, and the value of taking a mid-day nap.)
         />
 
     <Button
@@ -39,6 +43,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView"
         />
 
+<<<<<<< HEAD
     <ImageView
         android:layout_height="400dp"
         android:layout_width="200dp"
@@ -51,4 +56,6 @@
         tools:srcCompat="@drawable/lift"
         />
 
+=======
+>>>>>>> 9e17e68 (Learned `img.setScaleX(-img.getScaleX())`, which is what we were going for in the first place, and the value of taking a mid-day nap.)
 </androidx.constraintlayout.widget.ConstraintLayout>
