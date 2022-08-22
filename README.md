@@ -10,9 +10,9 @@ Time spent: **~2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [x?] Image and introductory message displayed on screen (see comment)
+* [x] Image and introductory message displayed on screen (see comment)
 * [x] Button displayed on screen
-* [x!] Toast with message appears when button is pressed 
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
@@ -22,20 +22,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/acC9Cfe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
-<!-- Other options include:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [peek](https://github.com/phw/peek).  
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-Emulator is laggy enough that I can't tell if the image isn't appearing because I did something wrong, or it's just too slow. 
+Emulator very slow. 
 
 ## License
 
